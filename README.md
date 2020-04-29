@@ -1,0 +1,2 @@
+# SpringBoot-Vue
+SpringBoot+Vue的一个测试项目，功能是使用Vue前端获取到后端SpringBoot的JSON，在SpringBoot中使用JPA的方式获取MySQL的数据。
